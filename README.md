@@ -27,7 +27,7 @@ All types of brain tumors may produce symptoms that vary depending on the part o
 ## Image Preprocessing
 ![89139836-4629f700-d540-11ea-98c3-6070c7e01d99](https://user-images.githubusercontent.com/81525051/139526247-36f2d551-ceb1-48f7-8a44-d5ea620c094a.png)
 
-##Data Augmentation
+## Data Augmentation
 We used the "ImageDataGenerator“ provided by Keras among other technologies for data augmentation.
 
 * Rotation range,
